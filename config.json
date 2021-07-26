@@ -1,0 +1,28 @@
+{
+    "PORT": "9000",
+    "urlDataBase": "http://localhost:",
+    "api_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik9uZSBSb29tIFN1Z2EgTGlmZSIsImlhdCI6MTYxNzcxOTk2Nn0.GTRjsZtnHEbp5qfHZb9x0e-J1TIe5u7-FsiKBW7MZgI",
+    
+    "YOUTUBE_API_KEY": "YOUR TOKEN API YOUTUBE",
+    "SOUNDCLOUD_CLIENT_ID": "YOUR TOKEN API SOUNDCLOUD",
+
+    "prefix": "!",
+
+    "target": "INSERT ID OF TARGET PLAY",
+    "specialPlay": "INSERT ID OF SPECIALPLAY",
+
+    "FBI_BOT": "INSERT YOUR TOKEN BOT #1",
+    "ifuBank_Bot": "INSERT YOUR TOKEN BOT #2",
+    "reactions_Bot": "INSERT YOUR TOKEN BOT #3",
+    "reporter_Bot": "INSERT YOUR TOKEN BOT #4",
+    "rpg_Bot": "INSERT YOUR TOKEN BOT #5",
+    "shop_Bot": "INSERT YOUR TOKEN BOT #6",
+    "system_Bot": "INSERT YOUR TOKEN BOT #7",
+    "welcome_Bot": "INSERT YOUR TOKEN BOT #8",
+
+    "channelCommands": "INSERT YOUR CHANNEL COMMANDS",
+    "channelNewspaper": "INSERT YOUR CHANNEL NEWSPAPER",
+    "channelShop": "INSERT YOUR CHANNEL SHOP",
+    "channelTags": "INSERT YOUR CHANNEL TAGS",
+    "supportChannel": "INSERT YOUR CHANNEL SECRET CHANNEL SUPPORT"
+}
